@@ -10,7 +10,7 @@
 		<property name="connection.password">root</property>
 		<property name="show_sql">true</property>
 
-		
+		<mapping class="com.exemplo.DAO.FuncDAO"/>
 
 	</session-factory>
 </hibernate-configuration>
